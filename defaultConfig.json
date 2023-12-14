@@ -1,0 +1,18 @@
+{
+    "windowWidth":"500",
+    "windowHeight":"500",
+    
+    "LightBackgroundColour": "#dddddd", 
+    "DarkBackgroundColour": "#1f1f1f", 
+    
+    "LightForegroundColour": "#cccccc", 
+    "DarkForegroundColour": "#181818", 
+    
+    "LightHighlightColour": "#eeeeee", 
+    "DarkHighlightColour": "#2b2b2b",
+
+    "LightTextColour": "#181818",
+    "DarkTextColour": "#cccccc",
+    
+    "currentTheme": "defaultTheme"
+}
